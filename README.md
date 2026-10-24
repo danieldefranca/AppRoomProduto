@@ -12,8 +12,12 @@ usando persistência local com Room (SQLite).
 - ViewBinding
 - Corrotinas (lifecycleScope)
 ## Prints do app
-![Tela inicial](docs/prints/tela-inicial.png)
-![Logcat com a listagem](docs/prints/logcat.png)
+Tela Inicial
+<img src="docs/prints/telainicial.jpeg" width="300">
+
+
+Logcat
+<img src="docs/prints/logcat.jpg" width="300">
 ## Parte A: Complemento prático
 ### A1. Limpar campos após inserir
 O que foi feito: adicionado ''clear''' ao final de todos os campos para esvaziar as caixas de texto
